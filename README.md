@@ -5,7 +5,7 @@
 - Embedded System software engineer
 - Like designing and making games
 - 喜欢设计和制作游戏
-
+🔭我的一些拆解和策划案在库里
 
 <!--
 **Landerssss/Landerssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
