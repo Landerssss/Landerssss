@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=300&section=header&text=Landerssss&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Embedded%20System%20+%20Game%20Dev&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:87CEBB&height=300&section=header&text=Landerssss&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Embedded%20System%20+%20Game%20Dev&descAlignY=51&descAlign=62" />
 </div>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Player+1+Ready...;Loading+Embedded+Systems...;Designing+Next+Level+Games...;C%2B%2B+%2F+Unity+%2F+Unreal" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87CEBB&center=true&vCenter=true&width=435&lines=Player+1+Ready...;Loading+Embedded+Systems...;Designing+Next+Level+Games...;C%2B%2B+%2F+Unity+%2F+Unreal" alt="Typing SVG" />
+  </a>
 </h3>
 
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,unity,unreal,git,linux,arduino,raspberrypi&perline=9" />
-  
+  
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,unity,unreal,git,linux,arduino,raspberrypi&perline=9" />
+  
 </div>
 
 <hr/>
