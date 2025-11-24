@@ -30,7 +30,7 @@ jobs:
       # 把生成的文件推送到 output 分支
       - name: Push to the output branch
         uses: peaceiris/actions-gh-pages@v3
-with:
+        with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
