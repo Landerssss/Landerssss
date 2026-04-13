@@ -38,9 +38,8 @@
 | ID | Quest | Status |
 | :--- | :--- | :--- |
 | 01 | 🎓 **Computer Science Student计算机系学生** | `In Progress` |
-| 02 | 🌱 **Embedded System Engineering嵌入式系统工程** | `Grinding` |
-| 03 | 👾 **Game Design & Mechanics游戏策划** | `Crafting` |
-| 04 | 🔭 **Reviewing Game Dissertations游戏系统拆解** | `Completed` |
+| 02 | 👾 **Game Design & Mechanics游戏策划** | `Crafting` |
+| 03 | 🔭 **Reviewing Game Dissertations游戏系统拆解** | `Completed` |
 
 <br/>
 
